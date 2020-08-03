@@ -1,2 +1,11 @@
-# leetcode-august-2020
-Leetcode Challenge for August 2020
+# August Leetcode Challenge 2020
+
+My leetcode profile can be viewed [here](https://leetcode.com/arshad115/)
+
+# August Leetcode Challenge - Log
+
+| Day  | Problem            |
+| ---- | :------------------|
+| 1    | [Detect Capital](./codes/1-detect-capital.py) |
+| 2    | [Design Hashset](./codes/2-design-hashset.py) |
+| 3    | [Valid Palindrome](./codes/3-valid-palindrome.py) |
